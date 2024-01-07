@@ -1,2 +1,3 @@
 # Path-Obstacle-Avoidance-Shaped
-Robotics HW 7
+
+Path Planning for Obstacle Avoidance of Shaped Robot
